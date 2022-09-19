@@ -1,0 +1,3 @@
+Linha de teste para escrita via python
+2ºLinha via Python
+Testando linha 3
